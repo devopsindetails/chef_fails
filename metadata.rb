@@ -1,0 +1,7 @@
+name 'chef_fails'
+maintainer 'Morgan Nelson'
+maintainer_email 'morgan.nelson@gmail.com'
+license 'mit'
+description 'Installs/Configures chef_fails'
+long_description 'Installs/Configures chef_fails, a cookbook designed to break chef'
+version '0.1.0'
